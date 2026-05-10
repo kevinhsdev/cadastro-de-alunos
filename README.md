@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Cadastro%20de%20Alunos&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Sistema%20Java%20e%20MySQL%20com%20POO%20%7C%20kevinhsdev&descAlignY=55&descSize=18"/>
 
 </div>
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=java,idea,mysql" />
 
 ![Status](https://img.shields.io/badge/Status-Concluído-639922?style=for-the-badge)
